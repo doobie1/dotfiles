@@ -1,0 +1,5 @@
+[user]
+	email = marcmaendli@gmail.com
+	name = doobie1 
+[credential]
+	helper = cache --timeout=3600
