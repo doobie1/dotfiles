@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/marc/Desktop/projects'
-let g:netrw_dirhist_2='/home/marc/.config/plank/dock1'
-let g:netrw_dirhist_3='/home/marc/.config/plank/dock1/launchers'
-let g:netrw_dirhist_4='/home/marc/Desktop/projects/scripts'
-let g:netrw_dirhist_5='/etc/systemd/system/getty.target.wants'
-let g:netrw_dirhist_6='/home/marc/Desktop/projects/dev/flask/tests'
-let g:netrw_dirhist_7='/home/marc/.config-save/plank'
