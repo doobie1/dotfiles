@@ -3,6 +3,7 @@
     "terminal.integrated.fontFamily": "FiraCode NF, PowerlineSymbols",
     "terminal.integrated.fontSize": 15,
     "editor.fontFamily": "FiraCode NF",
+    "editor.renderWhitespace": "all", 
     "yaml.schemas": {
         // match your locally downloaded JSON Schema to the file glob you want to use
         "~/.jsonschema/ansible-playbook": ["^/*.yml"],
